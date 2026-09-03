@@ -1,0 +1,6 @@
+PROPERTY CHANGEtitle
+PROPERTY CHANGEdocument-replaced
+DOCUMENT REPLACED
+PROPERTY CHANGEdocument-replaced
+DOCUMENT REPLACED
+Going to change controls
