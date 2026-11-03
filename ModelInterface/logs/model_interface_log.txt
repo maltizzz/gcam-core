@@ -3,5 +3,4 @@ PROPERTY CHANGEdocument-replaced
 DOCUMENT REPLACED
 PROPERTY CHANGEdocument-replaced
 DOCUMENT REPLACED
-Going to change controls
 Caught the window closing
