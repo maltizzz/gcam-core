@@ -22,12 +22,7 @@ REM Update the PATH to be able to find the Java dlls
 SET PATH=%JAVA_HOME%\bin;%JAVA_HOME%\bin\server
 
 REM Run GCAM
-REM NOTE: this fork's configuration.xml references gcamdata xml outputs (e.g.
-REM ag_Fert_IRR_MGMT.xml, ag_prodchange_ref_IRR_MGMT.xml) that only exist once
-REM the fork's own R gcamdata system has been rerun. Until that's regenerated,
-REM configuration_ref.xml is the config that matches the v9.1-release xml data
-REM copied into input/gcamdata/xml, so it's used here to get a working run.
-gcam.exe -C configuration_ref.xml
+gcam.exe -C configuration.xml
 
 )
 
